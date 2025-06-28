@@ -1,0 +1,10 @@
+Required modules:
+
+python -3.10
+seaborn
+pandas
+numpy
+matplotlib
+tensorflow
+sklearn
+gradio
