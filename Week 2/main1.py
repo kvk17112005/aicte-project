@@ -11,7 +11,7 @@ import gradio as gr  # Web interface library to deploy and test ML models
 from PIL import Image  # For image file loading and basic image operations
 
 
-
+# give the path location according to your system 
 testpath= r'C:\Users\t2c\Desktop\e waste\modified-dataset\test'
 trainpath= r'C:\Users\t2c\Desktop\e waste\modified-dataset\train'
 validpath = r'C:\Users\t2c\Desktop\e waste\modified-dataset\val'
